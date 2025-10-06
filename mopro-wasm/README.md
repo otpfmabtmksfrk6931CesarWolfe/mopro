@@ -23,3 +23,5 @@ Run the Fibonacci circuit tests for all backends—"plonk," "hyperplonk," and "g
 ```bash
 wasm-pack test --chrome --headless -- --all-features
 ```
+
+<!-- Auto-update: 2025-10-06T21:06:22.666682 -->
