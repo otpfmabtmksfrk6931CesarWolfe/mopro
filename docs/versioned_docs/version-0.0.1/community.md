@@ -25,3 +25,4 @@ You can also check out [good first issues](https://github.com/zkmopro/mopro/issu
 ## Acknowledgements
 
 This work was initially sponsored by a joint grant from [PSE](https://pse.dev/) and [0xPARC](https://0xparc.org/). It is currently incubated by PSE.
+<!-- Auto-update: 2025-10-06T09:12:06.691953 -->
